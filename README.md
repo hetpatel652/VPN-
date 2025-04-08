@@ -43,7 +43,7 @@ CG-NAT gives you a shared public IP used by many people.
 
 Your device has only a private IP (like 100.64.x.x or 192.168.x.x).
 
-Port forwarding won't work.
+Port forwarding won't work (Port forwarding is a method used to allow external devices to access services on a private network.)
 
 Even if you open ports on your home router, it won’t matter.
 
@@ -63,3 +63,7 @@ Option	Description
 🌍 Use IPv6	If your ISP supports it, host your VPN over IPv6 (no NAT).
 
 #############################################################################################################################################################################################################
+
+
+
+
